@@ -11,7 +11,7 @@ English | <a href="README.zh-CN.md">中文</a>
 
 ### Introduction
 
-For the purpose of learning,I replace the `file.js` with cracked version which just remove authorization code.
+For the purpose of learning,I replace the `files.js` with cracked version which just remove authorization code.
 
 So you can run this image directly to display your files.
 
