@@ -88,13 +88,13 @@ class config {
     'download_dir_cache' => 'dir', // enable caching of created zip dirs / 'dir' / 'storage' / '' false (disabled)
     
     // filemanager options
-    'allow_upload' => false, // allow uploader
-    'allow_delete' => false, // allow deleting files and folders
-    'allow_rename' => false, // allow renaming files and folders
-    'allow_new_folder' => false, // allow make new directory
-    'allow_new_file' => false, // allow make new empty file
-    'allow_duplicate' => false, // allow duplicate files
-    'allow_text_edit' => false, // allow editing text-based files in modal
+    'allow_upload' => true, // allow uploader
+    'allow_delete' => true, // allow deleting files and folders
+    'allow_rename' => true, // allow renaming files and folders
+    'allow_new_folder' => true, // allow make new directory
+    'allow_new_file' => true, // allow make new empty file
+    'allow_duplicate' => true, // allow duplicate files
+    'allow_text_edit' => true, // allow editing text-based files in modal
     'demo_mode' => false, // block all filemanager operations but allow them to show in interface / used in Files app demo
 
     // uploader options
