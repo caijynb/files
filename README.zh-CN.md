@@ -50,11 +50,11 @@ Files 0.3.1 更新了文件的上传、删除、重命名、新增 和 文件夹
 
 在这个容器中，可以通过访问`/fileadmin.php`登录后台管理文件。默认用户名：fileadmin，默认密码：fileadmin,最大文件上传容量：5000M
 
-![](C:/Users/Cobra/Desktop/files/img/default.png)
+![](img/default.png)
 
-![](C:/Users/Cobra/Desktop/files/img/login.png)
+![](img/login.png)
 
-![](C:/Users/Cobra/Desktop/files/img/admin.png)
+![](img/admin.png)
 
 
 
